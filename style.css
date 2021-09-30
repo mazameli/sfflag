@@ -11,6 +11,12 @@ p {
   line-height: 24px;
 }
 
+.title {
+  font-size: 64px;
+}
+.flex {
+  display: flex;
+}
 .container {
   margin: 32px auto 32px auto;
   text-align-center;
