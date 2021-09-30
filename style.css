@@ -13,6 +13,11 @@ p {
 
 .title {
   font-size: 64px;
+  margin-right: 64px;
+}
+.hero-image
+{
+  overflow: hidden;
 }
 .flex {
   display: flex;
